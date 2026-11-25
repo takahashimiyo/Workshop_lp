@@ -330,9 +330,8 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
 .access-info > p { font-size: 6.6rem; }
 .access-info a:hover { text-decoration: underline; }
 .directions { margin: 13rem 0 8rem; font-size: 5.7rem; line-height: 1.73; }
-.shop-link { display: inline-block; border-bottom: 1rem solid #bebbb5; font-size: 8.75rem; font-weight: 700; }
-.map-link { display: block; align-self: start; }
-.map-link img { width: 100%; height: auto; }
+.shop-link { display: inline-block; color: #66665f; font-size: calc(8.75rem - 3px); font-weight: 700; }
+.access-map { display: block; align-self: start; width: 100%; height: auto; aspect-ratio: 196 / 161; border: 0; }
 
 .site-footer { text-align: center; }
 .footer-invite { padding: 21rem 10rem 12rem; }
@@ -433,8 +432,8 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
   .access h3 { margin-bottom: 7px; font-size: 18px; }
   .access address, .access-info > p { font-size: 13px; }
   .directions { margin: 14px 0 10px; font-size: 12px; }
-  .shop-link { font-size: 14px; }
-  .map-link img { max-width: 360px; }
+  .shop-link { font-size: 11px; }
+  .access-map { min-height: 260px; }
   .footer-invite { padding: 27px 16px 18px; }
   .footer-invite .button { margin-top: 14px; }
   .footer-bar { flex-direction: column; gap: 13px; padding: 12px 16px 36px; }
