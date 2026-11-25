@@ -306,7 +306,7 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
 .faq summary::-webkit-details-marker { display: none; }
 .faq summary::after { flex: 0 0 auto; font: 700 10rem/1 Arial, sans-serif; content: "+"; }
 .faq details[open] summary::after { content: "−"; }
-.faq details p { padding: 0 11rem 8rem; font-size: 7rem; }
+.faq details p { padding: 8rem 11rem; background: rgb(180 154 112 / 30%); font-size: 7rem; }
 
 .riverside {
   height: 145rem;
