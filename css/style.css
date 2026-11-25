@@ -188,12 +188,12 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
   right: 20rem;
   left: 20rem;
   height: .65rem;
-  background: linear-gradient(90deg, transparent 8%, #b22d35 50%, transparent 92%);
+  background: linear-gradient(90deg, transparent 8%, rgb(178 45 53 / 34%) 18%, rgb(178 45 53 / 34%) 82%, transparent 92%);
   content: "";
 }
 .journey-steps img { width: 78rem; height: 78rem; margin: 0 auto; border-radius: 50%; object-fit: cover; }
 .journey-steps h3 { margin-top: 3rem; font-size: 8.25rem; }
-.journey-steps h3 span { color: var(--red); font: italic 15rem/1.1 Georgia, "Times New Roman", serif; }
+.journey-steps h3 span { margin-right: 2px; color: var(--red); font: 400 15rem/1.1 "Playball", cursive; }
 .journey-steps p { margin-top: 2rem; font-size: 5.6rem; line-height: 1.7; }
 
 .features { min-height: 290rem; padding: 30rem 0 35rem; }
