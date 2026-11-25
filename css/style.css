@@ -159,6 +159,7 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
   position: absolute;
   z-index: -1;
   inset: 0 0 auto;
+  transform: translateY(-1px);
   overflow: hidden;
   color: #eae2d5;
   opacity: .82;
