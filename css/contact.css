@@ -6,7 +6,7 @@
 .contact-main { padding: 68px 20px 80px; }
 .contact-intro { text-align: center; }
 .contact-eyebrow { color: #bda88b; font: 400 16px/1.4 Georgia, serif; letter-spacing: .2em; }
-.contact-intro h1 { margin: 8px 0 20px; color: var(--red); font: 700 30px/1.5 var(--serif); letter-spacing: .08em; }
+.contact-intro h1 { margin: 8px 0 20px; color: var(--red); font: 700 30px/1.5 var(--sans); letter-spacing: .08em; }
 .contact-intro > p:last-child { font-size: 15px; }
 .contact-card { max-width: 680px; margin: 38px auto 0; padding: 40px; border: 1px solid #eaded2; border-radius: 8px; background: #fff; }
 .contact-notice { padding: 14px 16px; border-left: 3px solid var(--red); background: #faf2f0; font-size: 14px; }
