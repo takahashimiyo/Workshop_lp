@@ -228,7 +228,7 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
   bottom: 0;
   left: 0;
   height: 17rem;
-  background: url("../assets/border.png") left bottom / 100% 100% no-repeat;
+  background: url("../assets/seigaiha.png") left bottom / 100% 100% no-repeat;
   pointer-events: none;
   content: "";
 }
