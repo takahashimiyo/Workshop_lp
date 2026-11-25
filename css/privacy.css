@@ -1,0 +1,4 @@
+.privacy-card section { margin-top: 32px; }
+.privacy-card h2 { margin-bottom: 10px; color: var(--red); font-size: 18px; }
+.privacy-card a { color: var(--red); text-decoration: underline; text-underline-offset: .2em; }
+.privacy-card a:focus-visible { outline: 3px solid #c77770; outline-offset: 3px; }
