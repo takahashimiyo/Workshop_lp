@@ -382,7 +382,7 @@ nav a:hover { text-decoration: underline; text-underline-offset: .22em; }
   .hero-intro p { font-size: clamp(12px, 3.25vw, 16px); letter-spacing: 0; }
   .hero-intro .button { margin-top: 24px; }
 
-  .section-lettering { padding-top: 4px; transform: translateY(-10px); font-size: clamp(20px, 7.15vw, 48px); line-height: 1; }
+  .section-lettering { padding-top: 4px; transform: translateY(-8px); font-size: clamp(20px, 7.15vw, 48px); line-height: 1; }
   .section-title, .section-title--small { font-size: clamp(20px, 5vw, 28px); letter-spacing: .045em; }
   .section-title--small { font-size: clamp(18px, 4.5vw, 25.2px); }
   .section-lead { margin-top: 6px; font-size: 14px; letter-spacing: .025em; }
